@@ -17,4 +17,5 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [LiDAR nokta bulutu - hava](https://sigspatial2022.sigspatial.org/giscup/download.html)
 * [TUCBS](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri)
   * Karayolu (WMS): https://tucbs-public-api.csb.gov.tr/trk_uab_kgm_karayolu_wms
-  <img src="/img/tucbs_karayolu.jpg" alt="TUCBS - KGM" style="height: 100px; width:100px;"/>
+  <img src="/img/tucbs_karayolu.jpg" alt="TUCBS - KGM" style="width:300px;"/>
+<img src="drawing.jpg" alt="drawing" width="200"/>
