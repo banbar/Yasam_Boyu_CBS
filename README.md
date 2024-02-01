@@ -13,5 +13,8 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 ## Veri
 
 * [CSV- NYC Taxi Data](https://data.cityofnewyork.us/Transportation/2014-Yellow-Taxi-Trip-Data/gkne-dk5s/data_preview)
-* [LiDAR nokta bulutu - el tarayıcısı](https://figshare.com/articles/dataset/Hacettepe_University_Department_of_Geomatics_Engineering_LiDAR_Scan/24866175/1)
+* [LiDAR nokta bulutu - el tarayıcısı (Hacettepe Geomatik)](https://figshare.com/articles/dataset/Hacettepe_University_Department_of_Geomatics_Engineering_LiDAR_Scan/24866175/1)
 * [LiDAR nokta bulutu - hava](https://sigspatial2022.sigspatial.org/giscup/download.html)
+* [TUCBS](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri)
+  * Karayolu (WMS): https://tucbs-public-api.csb.gov.tr/trk_uab_kgm_karayolu_wms
+  <img src="/img/tucbs_karayolu.jpg" alt="TUCBS - KGM" style="height: 100px; width:100px;"/>
