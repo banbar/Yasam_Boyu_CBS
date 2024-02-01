@@ -16,4 +16,6 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [LiDAR nokta bulutu - el tarayıcısı (Hacettepe Geomatik)](https://figshare.com/articles/dataset/Hacettepe_University_Department_of_Geomatics_Engineering_LiDAR_Scan/24866175/1)
 * [LiDAR nokta bulutu - hava](https://sigspatial2022.sigspatial.org/giscup/download.html)
 * [TUCBS](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri)
-  * Karayolu (WMS): https://tucbs-public-api.csb.gov.tr/trk_uab_kgm_karayolu_wms
+* Karayolu (WMS): https://tucbs-public-api.csb.gov.tr/trk_uab_kgm_karayolu_wms
+* [Türkiye Yükseklik Modeli](https://www.diva-gis.org/gdata)
+* [Optik Veri](https://dataspace.copernicus.eu/browser/)
