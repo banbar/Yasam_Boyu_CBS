@@ -7,6 +7,8 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 * [QGIS](https://qgis.org/en/site/)
 * **GeoServer 2.24.2**
+  * Java Devolopment Kit 11.0.21
+  * GeoServer 2.24.2
   * [Kurulum dosyaları](https://yunus.hacettepe.edu.tr/~banbar/geoserver.zip)
   * Tarayıcıda test: http://localhost:8080/geoserver/
 
