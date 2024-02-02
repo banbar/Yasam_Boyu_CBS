@@ -8,7 +8,6 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [QGIS](https://qgis.org/en/site/)
 * **GeoServer 2.24.2**
   * [Kurulum dosyaları](https://yunus.hacettepe.edu.tr/~banbar/geoserver.zip)
-  * Java 11
   * Tarayıcıda test: http://localhost:8080/geoserver/
 
 ## Veri
