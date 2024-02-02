@@ -19,4 +19,4 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [TUCBS](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri)
 * Karayolu (WMS): https://tucbs-public-api.csb.gov.tr/trk_uab_kgm_karayolu_wms
 * [Türkiye Yükseklik Modeli](https://www.diva-gis.org/gdata)
-* [Optik Veri](https://dataspace.copernicus.eu/browser/)
+* [Optik Veri(Üye Olmayı Gerektiryor)](https://dataspace.copernicus.eu/browser/)
