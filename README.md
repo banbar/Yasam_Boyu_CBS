@@ -6,7 +6,8 @@ Bu repoda Hacettepe Üniversitesi Yaşam Boyu Öğrenme Merkezi koordinatörlü�
 * [Python - Anaconda](https://www.anaconda.com/download)
 * [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 * [QGIS](https://qgis.org/en/site/)
-* [GeoServer 2.24.2](https://sourceforge.net/projects/geoserver/files/GeoServer/2.24.2/GeoServer-2.24.2-winsetup.exe/download)
+* [GeoServer 2.24.2]
+  * [Kurulum dosyaları](https://yunus.hacettepe.edu.tr/~banbar/geoserver.zip)
   * Java 11
   * Tarayıcıda test: http://localhost:8080/geoserver/
 
